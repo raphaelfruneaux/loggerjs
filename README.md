@@ -1,0 +1,2 @@
+# loggerjs
+A Logger module
